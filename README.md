@@ -1,8 +1,8 @@
 # mysql8.0-study
 
 <p align="center">
-  <img src="image.png" alt="Image 1" width="200"/>
-  <img src="image-1.png" alt="Image 2" width="200"/>
+  <img src="img/image.png" alt="Image 1" width="200"/>
+  <img src="img/image-1.png" alt="Image 2" width="200"/>
 </p>
 
 ## 개요
